@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Carlos verdeiro Verdeiro
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning PHP and JS
