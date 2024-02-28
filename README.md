@@ -23,3 +23,5 @@ Se você deseja entrar em contato comigo, sinta-se à vontade para me enviar uma
 
 ## Agradecimentos
 Agradeço por visitar minha página no GitHub! Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se tiver alguma pergunta ou sugestão.
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
