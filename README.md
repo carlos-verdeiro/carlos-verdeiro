@@ -17,6 +17,7 @@ Aqui estão alguns dos meus projetos mais notáveis no GitHub:
 ## Contato
 Se você deseja entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem aqui no GitHub ou me encontrar em outras plataformas:
 
+- E-mail: [carlos.d.verdeiro@gmail.com](mailto:carlos.d.verdeiro@gmail.com)
 - LinkedIn: [Carlos Daniel Verdeiro](https://www.linkedin.com/in/carlos-daniel-verdeiro/)
 - Instagram: [@carlos_dv1](https://www.instagram.com/carlos_dv1/)
 
