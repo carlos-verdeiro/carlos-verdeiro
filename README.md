@@ -5,8 +5,8 @@ Olá! Meu nome é Carlos Daniel e sou um entusiasta de tecnologia apaixonado por
 
 ## Tecnologias e Habilidades
 - Linguagens: HTML, CSS, PHP, JS, MySQL
-- Frameworks: Bootstrap, JQuery
-- Ferramentas: VSCode, GitHub, Xampp
+- Frameworks: Bootstrap
+- Ferramentas: VSCode, GitHub, Xampp, JQuery
 - Áreas de Interesse: Desenvolvimento WEB Full-Stack
 
 ## Projetos Destacados
