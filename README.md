@@ -13,6 +13,8 @@ Olá! Meu nome é Carlos Daniel e sou um entusiasta de tecnologia apaixonado por
 Aqui estão alguns dos meus projetos mais notáveis no GitHub:
 
 1. [task-manager](https://github.com/carlos-verdeiro/task-manager): Um simples gerenciador de tarefas CRUD utilizando PHP.
+2. [Despertador](https://github.com/carlos-verdeiro/Despertador): Despertador realizado utilizando arduino com fotoresistor e push button.
+
 
 ## Contato
 Se você deseja entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem aqui no GitHub ou me encontrar em outras plataformas:
