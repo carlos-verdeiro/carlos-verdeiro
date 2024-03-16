@@ -22,7 +22,6 @@ Se você deseja entrar em contato comigo, sinta-se à vontade para me enviar uma
 
 - E-mail: [carlos.d.verdeiro@gmail.com](mailto:carlos.d.verdeiro@gmail.com)
 - LinkedIn: [Carlos Daniel Verdeiro](https://www.linkedin.com/in/carlos-daniel-verdeiro/)
-- Instagram: [@carlos_dv1](https://www.instagram.com/carlos_dv1/)
 
 ## Agradecimentos
 Agradeço por visitar minha página no GitHub! Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se tiver alguma pergunta ou sugestão.
