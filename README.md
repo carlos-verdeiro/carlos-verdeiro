@@ -1,29 +1,51 @@
-# Bem-vindo à Minha Conta do GitHub!
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=carlos-verdeiro&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-verdeiro&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-## Sobre Mim
-Olá! Meu nome é Carlos Daniel e sou um entusiasta de tecnologia apaixonado por desenvolvimento WEB. Eu estou constantemente explorando novas tecnologias, aprendendo e construindo coisas interessantes. Este é o meu espaço no GitHub, onde compartilho projetos, colaboro com outros desenvolvedores e contribuo para a comunidade de código aberto. Atualmente estudo Informática para Internet na ETEC Professor Adolpho Arruda Mello.
+###
 
-## Tecnologias e Habilidades
-- Linguagens: HTML, CSS, PHP, JS, MySQL
-- Frameworks: Bootstrap
-- Ferramentas: VSCode, GitHub, Xampp, JQuery
-- Áreas de Interesse: Desenvolvimento WEB Full-Stack
+<br clear="both">
 
-## Projetos Destacados
-Aqui estão alguns dos meus projetos mais notáveis no GitHub:
+<div align="center">
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+</div>
 
-1. [task-manager](https://github.com/carlos-verdeiro/task-manager): Um simples gerenciador de tarefas CRUD utilizando *PHP*.
-2. [CRUD-Jquery](https://github.com/carlos-verdeiro/CRUD-Jquery): Projeto utilizando ajax com *JQuery* e *PHP* em forma de *API*.
-3. [Despertador](https://github.com/carlos-verdeiro/Despertador): Despertador realizado utilizando *arduino* com fotoresistor e push button.
+###
 
+<br clear="both">
 
-## Contato
-Se você deseja entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem aqui no GitHub ou me encontrar em outras plataformas:
+<img src="https://raw.githubusercontent.com/carlos-verdeiro/carlos-verdeiro/output/snake.svg" alt="Snake animation" />
 
-- E-mail: [carlos.d.verdeiro@gmail.com](mailto:carlos.d.verdeiro@gmail.com)
-- LinkedIn: [Carlos Daniel Verdeiro](https://www.linkedin.com/in/carlos-daniel-verdeiro/)
+###
 
-## Agradecimentos
-Agradeço por visitar minha página no GitHub! Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se tiver alguma pergunta ou sugestão.
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/carlos-daniel-verdeiro/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:carlos.d.verdeiro@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/carlos_dv1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5544991567723" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
