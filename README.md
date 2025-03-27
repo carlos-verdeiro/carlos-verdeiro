@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=carlos-verdeiro&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
