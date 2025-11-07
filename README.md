@@ -1,44 +1,41 @@
-<br clear="both">
-
 <div align="center">
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+<h1 align="center">
+Olá, me chamo Carlos
+</h1>
+
+<h3 align="center">
+Full-Stack | Estudante | Ciência da Computação
+</h3>
+
+<div ><a href="https://www.linkedin.com/in/carlos-daniel-verdeiro/"><img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" height="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:carlos.d.verdeiro@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="50px"/></a>
 </div>
 
-###
+
+`carlos.d.verdeiro@gmail.com`
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-verdeiro&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="170" alt="languages graph"  />
+<h2 align="center">Minha Stack</h2>
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,php,html,css,jquery,bootstrap,mysql,cpp" />
+</a>
+</p>
 </div>
 
-###
-
-<br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/carlos-daniel-verdeiro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:carlos.d.verdeiro@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/carlos_dv1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/5544991567723" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+<h2 align="center">Atividade no GitHub</h2>
 
-###
+<a href="https://www.google.com/search?q=https://github.com/carlos-verdeiro">
+<img src="https://github-readme-stats.vercel.app/api?username=carlos-verdeiro&amp;theme=tokyonight&show_icons=true&hide_border=true&layout=compact"" alt="Meus status"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-verdeiro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Meus status">
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlos-verdeiro/carlos-verdeiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlos-verdeiro/carlos-verdeiro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carlos-verdeiro/carlos-verdeiro/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
