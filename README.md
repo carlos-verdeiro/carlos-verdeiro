@@ -26,11 +26,12 @@ Full-Stack | Estudante | Ciência da Computação
 
 <div align="center">
 <h2 align="center">Atividade no GitHub</h2>
-
+<!--
 <a href="https://www.google.com/search?q=https://github.com/carlos-verdeiro">
 <img src="https://github-readme-stats.vercel.app/api?username=carlos-verdeiro&amp;theme=tokyonight&show_icons=true&hide_border=true&layout=compact"" alt="Meus status"></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-verdeiro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Meus status">
 </a>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlos-verdeiro/carlos-verdeiro/output/github-contribution-grid-snake-dark.svg">
