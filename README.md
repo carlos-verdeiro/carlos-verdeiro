@@ -18,7 +18,7 @@ Full-Stack | Estudante | Ciência da Computação
 <h2 align="center">Minha Stack</h2>
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,html,css,jquery,bootstrap,mysql,c,cpp,docker" />
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css,jquery,bootstrap,mysql,c,docker" />
 </a>
 </p>
 </div>
