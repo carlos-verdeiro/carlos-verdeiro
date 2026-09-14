@@ -17,7 +17,7 @@ Full-Stack | Estudante | Ciência da Computação
 <div align="center">
 <h2 align="center">Minha Stack</h2>
 <p>
-<a href="https://skillicons.dev">
+<a href="https://www.linkedin.com/in/carlos-daniel-verdeiro">
 <img src="https://skillicons.dev/icons?i=linux,java,spring,php,js,jquery,bootstrap,mysql,c,docker" />
 </a>
 </p>
