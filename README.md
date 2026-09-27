@@ -7,11 +7,11 @@ Olá, me chamo Carlos
 Full-Stack | Estudante | Ciência da Computação
 </h3>
 
-<div ><a href="https://www.linkedin.com/in/carlos-daniel-verdeiro/"><img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" height="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:carlos.d.verdeiro@gmail.com"><img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="50px"/></a>
+<div ><a href="https://www.linkedin.com/in/carlos-daniel-verdeiro/"><img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" height="50px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contato@carlosdv.com.br"><img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="50px"/></a>
 </div>
 
 
-`carlos.d.verdeiro@gmail.com`
+`contato@carlosdv.com.br`
 
 
 <div align="center">
